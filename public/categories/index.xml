@@ -1,0 +1,42 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>algooo</title>
+	<link>http://localhost:1313/categories/</link>
+	<description>Recent content in Categories on algooo</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+    
+        <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>dakchi</title>
+		<link>http://localhost:1313/things/</link>
+		<pubDate>Sat, 22 Mar 2025 22:34:59 +0000</pubDate>
+		
+		<guid>http://localhost:1313/things/</guid>
+		<description>&lt;blockquote&gt;
+&lt;p&gt;[!WARNING]
+the advantage is that you get the biggest on the sides so you dont search for it maticulously&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;sudo-code&#34;&gt;sudo code&lt;/h2&gt;
+&lt;h3 id=&#34;phase-1-move-to-b&#34;&gt;phase 1: move to b&lt;/h3&gt;
+&lt;h4 id=&#34;cases&#34;&gt;cases&lt;/h4&gt;
+&lt;p&gt;while(stack_a){
+if top in range : pb and if top-&amp;gt;next &amp;gt; top sb;
+if top &amp;lt;= range : pb and rb;
+else(top&amp;lt;range) : ra;
+range++ after each move and when end = size-1 icrease only the start;
+}&lt;/p&gt;
+&lt;h3 id=&#34;phase-2--push-it-back-to-a-sorted&#34;&gt;phase 2: ; push it back to a sorted&lt;/h3&gt;
+&lt;p&gt;while(stack_b){&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;half_size = get half the size of the stack ;&lt;/li&gt;
+&lt;li&gt;biggest_node_index = serch for biggest in in stack_b and get its index ;&lt;/li&gt;
+&lt;li&gt;biggest_node_index &amp;lt; half_size ? yes = rotate untile you get it : no = rrb til you get it;
+}&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>

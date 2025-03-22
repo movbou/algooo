@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'algooo'
+theme = 'lugo'
+watch = true
+liveReload = true
+baseURL = "https://movbou.github.io/my-hugo-site/" 
